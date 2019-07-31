@@ -24,7 +24,7 @@ The code is provided in the `iris-hierarchical-clustering.ipynb` notebook file. 
 In a terminal or command window, navigate to the top-level project directory `iris-hierarchical-clustering/` (that contains this README) and run one of the following commands:
 
 ```bash
-jupyter movie-recommendation-syste.ipynb
+jupyter iris-hierarchical-clustering.ipynb
 ```
 
 This will open the Jupyter Notebook software and project file in your browser.
